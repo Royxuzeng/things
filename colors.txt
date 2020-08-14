@@ -1,2 +1,6 @@
 red
 yellow
+white
+green
+blue
+orange
