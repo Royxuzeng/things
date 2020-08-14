@@ -1,3 +1,5 @@
 circles
 squares
 stars
+triangle
+rectangle
